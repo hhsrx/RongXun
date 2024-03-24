@@ -53,5 +53,5 @@ c = (
         visualmap_opts=opts.VisualMapOpts(min_=44986, max_=190091, is_piecewise=True), 
         title_opts=opts.TitleOpts(title="中国2022各省市人均GDP（单位：元）")
     )
-    .render("./output/gdp_provinces.html")
+    .render("./output/gdp_chinaprovinces.html")
 )
