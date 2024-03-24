@@ -4,7 +4,7 @@
 人均GDP是判定一个国家发达程度的重要指标，越高的人均GDP表示越高的发达水平。我根据世界银行和中国官方的数据，对世界各国和中国各省市的人均GDP按照地图进行标注。
 
 [作业1链接(世界人均GDP)](https://hhsrx.github.io/gdp_per_capita.html)
-[作业1链接(各省市人均GDP)](https://hhsrx.github.io/gdp_provinces.html)
+[作业1链接(各省市人均GDP)](https://hhsrx.github.io/gdp_chinaprovinces.html)
 
 ## 作业2
 中国、美国、法国、俄罗斯、英国作为联合国的五个常任理事国，是综合国力在世界上居前列的国家，因此对它们在最近五届夏季奥运会的获得奖牌数进行比较，以观察它们在体育方面的表现。
